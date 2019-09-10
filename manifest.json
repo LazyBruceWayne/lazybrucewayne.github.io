@@ -1,6 +1,6 @@
 {
-	"short_name": "ankush-jain's-portfolio",
-	"name": "Ankush Jain's Portfolio",
+	"short_name": "Portfolio",
+	"name": "Portfolio",
 	"icons": [
 		{
 			"src": "img/profile.png",
@@ -10,7 +10,7 @@
 	],
 	"start_url": "/index.html",
 	"display": "standalone",
-	"orientation": "landscape",
+	"orientation": "portrait",
 	"theme_color": "#BAAFE0",
 	"background_color": "#000000"
 }
