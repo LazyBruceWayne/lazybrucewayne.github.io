@@ -1,4 +1,3 @@
-<script>
  if ('serviceWorker' in navigator) {
     console.log("Will the service worker register?");
     navigator.serviceWorker.register('service-worker.js')
@@ -8,4 +7,3 @@
         console.log("No it didn't. This happened:", err)
     });
  }
-</script>
