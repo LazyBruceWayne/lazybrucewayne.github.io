@@ -32,6 +32,17 @@
 
 	<!-- Place this tag in your head or just before your close body tag. -->
 	<script async defer src="https://buttons.github.io/buttons.js"></script>
+	<script>
+	      if('serviceWorker' in navigator) {
+		navigator.serviceWorker.register('/service-worker.js', { scope: '/' })
+		  .then(function(registration) {
+			console.log('Service Worker Registered');
+		  });
+		navigator.serviceWorker.ready.then(function(registration) {
+		   console.log('Service Worker Ready');
+		});
+	      }
+	</script>
 	
 </body>
 </html>
