@@ -1,0 +1,41 @@
+{
+  "home": {
+    "copyright": "Copyright",
+    "services": "Services",
+    "use-cases": "Use Cases",
+    "industries": "Industries",
+    "husky": "Husky"
+  },
+  "buttons": {
+    "husky-analytics": "Husky Analytics",
+    "ai-applications": "AI Applications",
+    "generative-ai": "Generative AI"
+  },
+  "retry-error": "Oops! Something went wrong. Please try again.",
+  "main-input-placeholer": "What do you want to know about Husky?",
+  "name": "Please enter your name",
+  "company": "Please enter your company name",
+  "email": "Please enter your email",
+  "lets-discover": [
+    "Let’s discover Husky",
+    "Let’s explore Husky",
+    "Let’s play with Husky",
+    "Let’s chat with Husky",
+    "Let’s enjoy with Husky",
+    "Let's dive into Husky",
+    "Let's interact with Husky",
+    "Let's get inspired by Husky",
+    "Let's innovate with Husky",
+    "Let's challenge with Husky",
+    "Let’s generate with Husky"
+  ],
+  "cookie": {
+    "header": "Cookies used on the website!",
+    "message": "This website uses cookies to ensure you get the best experience on our website.",
+    "dismiss": "Got it!",
+    "allow": "Allow cookies",
+    "deny": "Decline",
+    "link": "Learn more",
+    "policy": "Cookie Policy"
+  }
+}

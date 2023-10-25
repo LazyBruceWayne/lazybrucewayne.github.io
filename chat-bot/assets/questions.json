@@ -1,0 +1,78 @@
+{
+    "English": {
+        "services": [
+            "What services does Husky provide?",
+            "How does Husky ensure the quality of its services?",
+            "Tell me more about Husky's customer support services.",
+            "What advantages do Husky's services have over competitors?",
+            "How can I request a service from Husky?",
+            "Does Husky offer specialized services?",
+            "What is Husky's pricing structure for its services?",
+            "Can you provide case studies for Husky's services?",
+            "What services does Husky provide?",
+            "In which industries does Husky offer its services?"
+        ],
+        "use-cases": [
+            "What are some common use cases for Husky's products?",
+            "How can Husky's products solve specific problems?",
+            "Share success stories or use case examples, please.",
+            "Is customization available for different use cases with Husky's products?",
+            "Which industries benefit the most from Husky's product use cases?",
+            "Are there any limitations to the use cases of Husky's products?",
+            "How can I integrate Husky's products into my use case?",
+            "Does Husky provide use case consultations?",
+            "What's the typical implementation process for use cases?",
+            "Can you explain the ROI of Husky's product use cases?"
+        ],
+        "industries": [
+            "What are Husky's primary industries of focus?",
+            "How do Husky's solutions address the unique needs of different industries?",
+            "Can you provide examples of clients in specific industries served by Husky?",
+            "What challenges does Husky address within various industries?",
+            "Does Husky adhere to industry-specific certifications or compliance standards?",
+            "How does Husky's product adapt to evolving industry trends?",
+            "Are there industry-specific training or resources offered by Husky?",
+            "What distinguishes Husky's solutions within different industries?",
+            "How can I request a customized solution for my industry from Husky?",
+            "What's Husky's vision for the future of the industries it serves?"
+        ]
+    },
+    "Italian": {
+        "services": [
+            "Quali servizi offre Husky?",
+            "Come garantisce Husky la qualità dei suoi servizi?",
+            "Raccontami di più sui servizi di assistenza clienti di Husky.",
+            "Quali vantaggi hanno i servizi di Husky rispetto ai concorrenti?",
+            "Come posso richiedere un servizio da Husky?",
+            "Husky offre servizi specializzati?",
+            "Qual è la struttura dei prezzi dei servizi di Husky?",
+            "Puoi fornire casi di studio dei servizi di Husky?",
+            "Ci sono garanzie o garanzie per i servizi di Husky?",
+            "In quali settori Husky offre i suoi servizi?"
+        ],
+        "use-cases": [
+            "Quali sono alcuni casi d'uso comuni per i prodotti di Husky?",
+            "Come possono i prodotti di Husky risolvere problemi specifici?",
+            "Condividi esempi di casi di successo o casi d'uso, per favore.",
+            "La personalizzazione è disponibile per diversi casi d'uso con i prodotti di Husky?",
+            "Quali settori traggono il massimo beneficio dai casi d'uso dei prodotti di Husky?",
+            "Ci sono limitazioni per i casi d'uso dei prodotti di Husky?",
+            "Come posso integrare i prodotti di Husky nel mio caso d'uso?",
+            "Husky fornisce consulenze sui casi d'uso?",
+            "Qual è il processo di implementazione tipico per i casi d'uso?",
+            "Puoi spiegare il ROI dei casi d'uso dei prodotti di Husky?"
+        ],
+        "industries": [
+            "Quali sono le industrie principali di interesse per Husky?",
+            "Come le soluzioni di Husky soddisfano le esigenze uniche delle diverse industrie?",
+            "Puoi fornire esempi di clienti in industrie specifiche serviti da Husky?",
+            "Quali sfide affronta Husky nelle varie industrie?",
+            "Husky aderisce a certificazioni specifiche o standard di conformità del settore?",
+            "Come si adatta il prodotto di Husky alle tendenze in evoluzione del settore?",
+            "Husky offre formazione o risorse specifiche per il settore?",
+            "Cosa distingue le soluzioni di Husky nelle diverse industrie?",
+            "Come posso richiedere una soluzione personalizzata per la mia industria da Husky?",
+            "Qual è la visione di Husky per il futuro delle industrie che serve?"
+        ]
+    }
+}
